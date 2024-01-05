@@ -4,7 +4,7 @@
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
 # 💫 About Me:
-My name is JASPREET SINGH and I am currently working as Full Stack Software Developer Engineer at Luminoguru Pvt. Ltd. I completed my degree in Bachelor of Technology in Information Technology from Dr. A.P.J. Abdul Kalam Technical University. I am much interested in developing new things which excite me a lot. :)<br><br>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. I try to leave every line of code I write more readable, accessible, and modular. Looking For better opportunity as a React Js Developer, 1.4 Years of relevant Industrial experience in Software Development. With Key Skills - React Js, JavaScript, Html, CSS, Material UI, Bootstrap, Next Js, React Native, Tailwind CSS, Git, GitHub, GitLab, Trello, Jira,
+My name is JASPREET SINGH and I am currently working as Full Stack Software Developer Engineer at Luminoguru Pvt. Ltd. I completed my degree in Bachelor of Computer Science from R.S.D College. I am much interested in developing new things which excite me a lot. :)<br><br>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. I try to leave every line of code I write more readable, accessible, and modular. Looking For better opportunity as a React Js Developer, 2.5+ Years of relevant Industrial experience in Software Development. With Key Skills - PHP, Laravel, Mysql, PHP Smarty, JavaScript, jQuery, Ajax, Livewire, Alpine Js,  Html, CSS, Bootstrap, Node Js, Tailwind CSS, Git, GitHub, Trello, Jira, Bitbucket, Vtiger CRM, Eclipse, Core PHP, Google Anaytics Script, Angular Js
 
 
 ## 🌐 Socials:
